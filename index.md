@@ -3,4 +3,4 @@ Hello! What are you doing here?
 
 ![me]({{site.baseurl}}/images/me.jpg)
 
-My name is Alex Garcia. You can find more information about me on my [blog](https://www.alex-is-so-not.gq).
+My name is Alex Garcia. You can find more information about me on my [blog](https://hiimalexjgarcia.dev).
